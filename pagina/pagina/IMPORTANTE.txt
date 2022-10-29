@@ -1,0 +1,8 @@
+Los archivos que se deben abrir son:
+
+Principalprueba.php (landingpage para reserva y registro de clientes)
+gestion_habitacion.php, gestion_reserva.php o gestion_usuario.php (pagina para el administrador del hotel)
+
+Se debe ademas importar la base de datos que esta en la carpeta "base de datos" con el nombre de base de datos "pagina"
+
+

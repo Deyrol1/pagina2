@@ -1,0 +1,14 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background: rgb(141, 22, 211);
+}
+
+
+.reservare{
+  
+        text-decoration:dashed;
+        color:white;
+        padding: 20px;
+        display:block;
+        position: right; 
+}

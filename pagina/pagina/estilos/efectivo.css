@@ -1,0 +1,26 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background: rgb(185, 185, 238);
+}
+
+.totalpagar{
+    font-family: 'Times New Roman', Times, serif;
+    list-style: None;
+    padding: 0;
+
+    width:90%;
+    max-width:2000px;
+    position: center;
+
+}
+
+.boton{
+    font-family: 'Times New Roman', Times, serif;
+
+
+    color:rgb(158, 1, 1);
+    padding: 10px;
+    display:block;
+    position: right;
+
+}

@@ -1,0 +1,59 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+/* estilo de caja*/
+.busqueda{
+    list-style: None;
+    background-color: #092327;
+    width:80%;
+    position: relative;
+
+}
+
+/* estilo de letra*/
+.busqueda li a{
+    text-decoration:dashed;
+    color:white;
+    padding: 20px;
+    display:block;
+    position: right;
+
+}
+
+/* posicion de letra*/
+.busqueda li{
+    display:inline-block;
+    text-align: right;
+
+}
+/* hacer k salga un color al mover el mouse */
+
+/* estilo de caja*/
+.resultado{
+    list-style: None;
+    padding: 0;
+    background-color: #092327;
+    width:80%;
+    max-width:2000px;
+    position: center;
+
+}
+
+/* estilo de letra*/
+.resultado li a{
+    text-decoration:dashed;
+    color:white;
+    padding: 20px;
+    display:block;
+    position: center;
+
+}
+
+/* posicion de letra*/
+.resultado li{
+    display:inline-block;
+    text-align: right;
+
+}
+/* hacer k salga un color al mover el mouse */
